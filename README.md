@@ -1,1 +1,5 @@
-
+- olá
+- ❥ meu nome é rafaella e da minha amiga amanda
+- eu tenho 15 anos e ela 14,faço aniversário em junho e ela em agosto 
+- estamos estudando juntas no colegio joão de faria pioli,no primeiro ano do novo ensino médio
+- aprendemos em pensamento computacional a criar um jogo e agora no segundo trimentre vamos aprender html
